@@ -6,4 +6,4 @@ Hola! está es un api estática de [Heroes of the Storm](https://heroesofthestor
 
 - Español
 
-EPronto agregaré nuevos idiomas y los heroes de forma individual.
+Pronto agregaré nuevos idiomas y los heroes de forma individual.
