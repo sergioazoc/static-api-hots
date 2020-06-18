@@ -11,12 +11,10 @@ Soon add individual Heros.
 
 ## Endpoints
 
-### Heroes 
+### Heroes V1
 
 #### Spanish
 GET [https://sergioazoc.github.io/static-api-hots/v1/es/heroes.json](https://sergioazoc.github.io/static-api-hots/v1/es/heroes.json).
-
-### Heroes
 
 #### English
 GET [https://sergioazoc.github.io/static-api-hots/v1/en/heroes.json](https://sergioazoc.github.io/static-api-hots/v1/en/heroes.json).
