@@ -1,17 +1,25 @@
 # Static Api Hots
 
-Hola! está es un api estática de [Heroes of the Storm](https://heroesofthestorm.com/)
+Hi! this is a static api from [Heroes of the Storm](https://heroesofthestorm.com/)
 
-## Idiomas disponibles
+## Available languages
 
-- Español
+- Spanish
+- English
 
-Pronto agregaré nuevos idiomas y los heroes de forma individual.
+Soon add individual Heros.
 
 ## Endpoints
 
-### Heroes
+### Heroes 
+
+#### Spanish
 GET [https://sergioazoc.github.io/api-hots/v1/es/heroes.json](https://sergioazoc.github.io/api-hots/v1/es/heroes.json).
+
+### Heroes
+
+#### English
+GET [https://sergioazoc.github.io/api-hots/v1/en/heroes.json](https://sergioazoc.github.io/api-hots/v1/en/heroes.json).
 
 #### Data
 
