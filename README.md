@@ -14,12 +14,12 @@ Soon add individual Heros.
 ### Heroes 
 
 #### Spanish
-GET [https://sergioazoc.github.io/api-hots/v1/es/heroes.json](https://sergioazoc.github.io/api-hots/v1/es/heroes.json).
+GET [https://sergioazoc.github.io/static-api-hots/v1/es/heroes.json](https://sergioazoc.github.io/static-api-hots/v1/es/heroes.json).
 
 ### Heroes
 
 #### English
-GET [https://sergioazoc.github.io/api-hots/v1/en/heroes.json](https://sergioazoc.github.io/api-hots/v1/en/heroes.json).
+GET [https://sergioazoc.github.io/static-api-hots/v1/en/heroes.json](https://sergioazoc.github.io/static-api-hots/v1/en/heroes.json).
 
 #### Data
 
